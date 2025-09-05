@@ -10,7 +10,7 @@ I'm Sri Mallika,a passionate full stack developer enthusiast with a love for bui
 ![C](https://img.shields.io/badge/C-green.svg?style=for-the-badge&logo=C&logoColor=black)
 ![R](https://img.shields.io/badge/R-red.svg?style=for-the-badge&logo=R&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![REACT](https://img.shields.io/badge/REACT-green.svg?style=for-the-badge&logo=reactt&logoColor=black)
+![REACT](https://img.shields.io/badge/REACT-green.svg?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-lightblue.svg?style=for-the-badge&logo=html5&logoColor=black)
 ![CSS3](https://img.shields.io/badge/CSS3-pink.svg?style=for-the-badge&logo=css3&logoColor=black)
 ![MERNSTACK](https://img.shields.io/badge/MERNSTACK-yellow.svg?style=for-the-badge&logo=mernstack&logoColor=black)

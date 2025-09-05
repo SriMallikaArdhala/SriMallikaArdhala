@@ -1,4 +1,6 @@
-## Hi there 👋
+## About Me 👋
+## Social Accounts
+## Git HUb Statistics
 
 <!--
 **SriMallikaArdhala/SriMallikaArdhala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

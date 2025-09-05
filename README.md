@@ -1,6 +1,6 @@
 ## 😊About Me
-## 🌐Social Accounts 
-      https://www.linkedin.com/in/srimallikaardhala
+## 🌐Social Accounts
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## 📈 Git Hub Statistics 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SriMallikaArdhala&theme=dark&show_icons=true)]()
 

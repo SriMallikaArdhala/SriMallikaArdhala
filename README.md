@@ -1,6 +1,6 @@
 ## 😊About Me
 ## 🌐Social Accounts
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-yellow.svg)](https://www.linkedin.com/in/srimallikaardhala)
+[![LinkedIn](https://img.shields.io/badge/LinkedIN-lightblue.svg)](https://www.linkedin.com/in/srimallikaardhala)
 ## 📈 Git Hub Statistics 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SriMallikaArdhala&theme=dark&show_icons=true)]()
 

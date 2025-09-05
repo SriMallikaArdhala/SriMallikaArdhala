@@ -2,7 +2,7 @@
 ## 🌐Social Accounts
 [![LinkedIn](https://img.shields.io/badge/LinkedIN-lightblue.svg?style=for-the-badge)](https://www.linkedin.com/in/srimallikaardhala)
 ## 💻Technical Stack
-![JAVA](https://img.shields.io/badge/JAVA-red.svg?style=for-the-badge)
+![:java JAVA](https://img.shields.io/badge/JAVA-red.svg?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow.svg?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-green.svg?style=for-the-badge)
 ![JAVA SCRIPT](https://img.shields.io/badge/JAVASCRIPT-blue.svg?style=for-the-badge)

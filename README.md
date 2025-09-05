@@ -1,13 +1,15 @@
 ## 😊About Me
 I'm Sri Mallika,a passionate full stack developer enthusiast with a love for building scalable, efficient, and user-friendly applications. With expertise in both front-end and back-end technologies, I enjoy crafting seamless digital experiences that drive results. My tech stack includes JavaScript, React, Node.js, and more. I'm always learning and experimenting with new tools and techniques to stay ahead in the ever-evolving world of web development. Let's connect and build something amazing together!
 ## 🌐Social Accounts
-[![LinkedIn](https://img.shields.io/badge/LinkedIN-lightblue.svg?style=for-the-badge)](https://www.linkedin.com/in/srimallikaardhala)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SriMallikaArdhala/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sri_mallika_432/)
 ## 💻Technical Stack
 ![JAVA](https://img.shields.io/badge/JAVA-red.svg?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow.svg?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-green.svg?style=for-the-badge)
 ![R](https://img.shields.io/badge/R-red.svg?style=for-the-badge)
-![JAVA SCRIPT](https://img.shields.io/badge/JAVASCRIPT-blue.svg?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/REACT-green.svg?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-lightblue.svg?style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-pink.svg?style=for-the-badge)

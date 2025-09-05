@@ -1,6 +1,6 @@
-##😊About Me
-##🌐Social Accounts 
-##📈 Git Hub Statistics 
+## 😊About Me
+## 🌐Social Accounts 
+## 📈 Git Hub Statistics 
 
 
 <!--

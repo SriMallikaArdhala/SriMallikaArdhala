@@ -20,8 +20,8 @@ I'm Sri Mallika,a passionate full stack developer enthusiast with a love for bui
 ![JENKINS](https://img.shields.io/badge/JENKINS-lightblue.svg?style=for-the-badge)
 ## 📈 Git Hub Statistics 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SriMallikaArdhala&show_icons=true&theme=radical)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriMallikaArdhala&layout=compact&theme=radical)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SriMallikaArdhala&theme=radical)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SriMallikaArdhala&layout=compact&theme=radical)]()
 ![Profile Views](https://komarev.com/ghpvc/?username=SriMallikaArdhala&color=blue)
 
 

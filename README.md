@@ -18,7 +18,7 @@ I'm Sri Mallika,a passionate full stack developer enthusiast with a love for bui
 ![SPRINGBOOT](https://img.shields.io/badge/SPRINGBOOT-lightblue.svg?style=for-the-badge&logo=springboot&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-red.svg?style=for-the-badge)
 ![MONGODB](https://img.shields.io/badge/MONGODB-darkblue.svg?style=for-the-badge&logo=mongodb&logoColor=black)
-![GIT](https://img.shields.io/badge/GIT-red.svg?style=for-the-badge&logo=git&logoColor=black)
+![GIT](https://img.shields.io/badge/GIT-green.svg?style=for-the-badge&logo=git&logoColor=black)
 ![GITHUB](https://img.shields.io/badge/GITHUB-red.svg?style=for-the-badge&logo=github&logoColor=black)
 ![JENKINS](https://img.shields.io/badge/JENKINS-lightblue.svg?style=for-the-badge&logo=jenkins&logoColor=black)
 ## 📈 Git Hub Statistics 

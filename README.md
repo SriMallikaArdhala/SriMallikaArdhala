@@ -1,7 +1,7 @@
 ## 😊About Me
 I'm Sri Mallika,a passionate full stack developer enthusiast with a love for building scalable, efficient, and user-friendly applications. With expertise in both front-end and back-end technologies, I enjoy crafting seamless digital experiences that drive results. My tech stack includes JavaScript, React, Node.js, and more. I'm always learning and experimenting with new tools and techniques to stay ahead in the ever-evolving world of web development. Let's connect and build something amazing together!
 ## 🌐Social Accounts
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ardhalamallika@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SriMallikaArdhala/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sri_mallika_432/)
 ## 💻Technical Stack

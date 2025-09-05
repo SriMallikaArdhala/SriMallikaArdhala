@@ -6,7 +6,7 @@ I'm Sri Mallika,a passionate full stack developer enthusiast with a love for bui
 ![JAVA](https://img.shields.io/badge/JAVA-red.svg?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow.svg?style=for-the-badge)
 ![C](https://img.shields.io/badge/C-green.svg?style=for-the-badge)
-![C#](https://img.shields.io/badge/C#-red.svg?style=for-the-badge)
+![R](https://img.shields.io/badge/R-red.svg?style=for-the-badge)
 ![JAVA SCRIPT](https://img.shields.io/badge/JAVASCRIPT-blue.svg?style=for-the-badge)
 ![REACT](https://img.shields.io/badge/REACT-green.svg?style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-lightblue.svg?style=for-the-badge)

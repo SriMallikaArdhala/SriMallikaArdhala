@@ -1,6 +1,8 @@
 ## 😊About Me
 ## 🌐Social Accounts 
 ## 📈 Git Hub Statistics 
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SriMallikaArdhala&theme=dark&show_icons=true)]()
+
 
 
 <!--

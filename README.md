@@ -1,7 +1,6 @@
-## About Me <img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/5e54a4f2-424a-45b2-be26-7ed99115ab52" />
-## Social Accounts <img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/a5173ef9-250d-45c7-8180-2074d75fa51e" />
-
-## Git Hub Statistics <img width="72" height="72" alt="image" src="https://github.com/user-attachments/assets/a70283f3-6894-44c9-8943-f58f5b29464e" />
+##😊About Me
+##🌐Social Accounts 
+##📈 Git Hub Statistics 
 
 
 <!--

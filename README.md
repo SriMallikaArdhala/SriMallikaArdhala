@@ -1,6 +1,6 @@
 ## 😊About Me
 ## 🌐Social Accounts
-![https://www.linkedin.com/in/srimallikaardhala](https://img.shields.io/badge/LinkedIN-lightblue.svg?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIN-lightblue.svg?style=for-the-badge)](https://www.linkedin.com/in/srimallikaardhala)
 ## 💻Technical Stack
 ![JAVA](https://img.shields.io/badge/JAVA-red.svg?style=for-the-badge)
 ![PYTHON](https://img.shields.io/badge/PYTHON-yellow.svg?style=for-the-badge)
